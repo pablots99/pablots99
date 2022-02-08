@@ -4,8 +4,8 @@
 
 🌱 I’m currently learning solidity, web3, c++, rust
 
-📖 I’m currently studing is 42-Madird      
-<a href="https://www.42madrid.com/network/" target="blank"><img align="center" src="https://projects.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="pablo torres searle" height="25" width="25" /></a>
+📖 I’m currently studing is 42-Madird ->    
+<a href="https://www.42madrid.com/network/" target="blank"><img align="center" src="https://projects.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="pablo torres searle" height="23" width="23" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
