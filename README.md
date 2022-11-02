@@ -2,7 +2,7 @@
 
 
 
-🌱 I’m currently learning solidity, web3, c++, rust
+🌱 I’m currently learning, go, c++, rust
 
 
 📖 42-Madrid Student ->
